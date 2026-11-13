@@ -1,4 +1,13 @@
-# Physics-Informed Inverse Calibration of the Canonical Double Heston Model
+# Double-Heston
+
+Option-pricing and inverse-calibration research. The historical research topic is
+Physics-Informed Inverse Calibration of the Canonical Double Heston Model.
+This repository was renamed from `double-heston-inverse-calibration` to
+[`double-heston`](https://github.com/virajchoudhary/double-heston).
+Existing branches, source identifiers, research artifacts, and Git history are
+preserved. The separate
+[Bitcoin PINN research companion](https://github.com/virajchoudhary/bitcoin-options-pinn-research)
+remains a code-only subset, not a renamed or merged copy of this repository.
 
 For a concise contribution and project-evolution guide, read
 [the engineering review](docs/PORTFOLIO_REVIEW.md).
